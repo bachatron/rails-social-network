@@ -13,6 +13,7 @@ development:
 test:
   <<: *default
   database: TOP_Social_test
+
 production:
   <<: *default
-  database: TOP_Social_production
+  url: <%= ENV["DATABASE_URL"] %>
