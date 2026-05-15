@@ -80,19 +80,19 @@ This project was originally created as part of The Odin Project curriculum and l
 
 # Screenshots
 
-## Feed
+Feed
 
 <p align="center">
   <img src="screenshots/feed.png" width="800">
 </p>
 
-## User Profile
+User Profile
 
 <p align="center">
   <img src="screenshots/profile.png" width="800">
 </p>
 
-## Comments Creation
+Comments Creation
 
 <p align="center">
   <img src="screenshots/comments.png" width="800">
