@@ -82,27 +82,39 @@ This project was originally created as part of The Odin Project curriculum and l
 
 ## Post
 
-![Post Screenshot](screenshots/post.png)
+<p align="center">
+  <img src="screenshots/post.png" width="800">
+</p>
 
 ## Feed
 
-![Feed Screenshot](screenshots/feed.png)
+<p align="center">
+  <img src="screenshots/feed.png" width="800">
+</p>
 
 ## User Profile
 
-![Profile Screenshot](screenshots/profile.png)
+<p align="center">
+  <img src="screenshots/profile.png" width="800">
+</p>
 
 ## Comments Creation
 
-![Comments Creation Screenshot](screenshots/comments.png)
+<p align="center">
+  <img src="screenshots/comments.png" width="800">
+</p>
 
 ## Users list
 
-![User List Screenshot](screenshots/user_list.png)
+<p align="center">
+  <img src="screenshots/user_list.png" width="800">
+</p>
 
 ## Sign-Up
 
-![Sign-Up Screenshot](screenshots/sign_up.png)
+<p align="center">
+  <img src="screenshots/sign_up.png" width="800">
+</p>
 
 ---
 
