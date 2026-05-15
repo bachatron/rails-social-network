@@ -80,12 +80,6 @@ This project was originally created as part of The Odin Project curriculum and l
 
 # Screenshots
 
-## Post
-
-<p align="center">
-  <img src="screenshots/post.png" width="800">
-</p>
-
 ## Feed
 
 <p align="center">
@@ -102,18 +96,6 @@ This project was originally created as part of The Odin Project curriculum and l
 
 <p align="center">
   <img src="screenshots/comments.png" width="800">
-</p>
-
-## Users list
-
-<p align="center">
-  <img src="screenshots/user_list.png" width="800">
-</p>
-
-## Sign-Up
-
-<p align="center">
-  <img src="screenshots/sign_up.png" width="800">
 </p>
 
 ---
